@@ -1,0 +1,14 @@
+{
+  "name": "discord-oauth-link-bot",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0"
+  }
+}
